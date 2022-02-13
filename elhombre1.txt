@@ -1,0 +1,3 @@
+Hola a tothom
+Aquest es el meu projecte de git
+De DAW en l'assignatura de desplegament d'aplicacions web

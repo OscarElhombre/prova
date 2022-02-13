@@ -1,0 +1,2 @@
+Hola un altre cop
+Aquest es el segon fitxer del meu projecte de git
